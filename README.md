@@ -1,4 +1,4 @@
-# ShipFast-Logistics-Superstore-Analysis
+# ShipFast Logistics Superstore Analysis
 
 **Interactive Dashboard in Looker Studio**  
 *Analyze Key Metrics for Improved Logistics and Decision-Making*
